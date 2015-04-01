@@ -1,1 +1,2 @@
 mvn clean compile exec:java -Dexec.mainClass="com.nong.jasperDynamic.SimpleReportExample"
+http://www.dynamicreports.org/getting-started#step2
